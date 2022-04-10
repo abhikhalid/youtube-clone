@@ -1,0 +1,58 @@
+Steps
+
+1. Get TMDB API Key
+2. Create a react app
+3. Setup Firebase hosting
+4. Get all the Movies.
+5. Build the Rows.
+6. Buld the Banner
+7. Build the Nav bar.
+8. Add Trailer popups.
+
+
+
+------------------------------
+
+tmdb website link
+
+https://www.themoviedb.org/
+
+username: khalid1010
+password: abhi1010
+
+now go to api section and hit the 'create api'
+link.
+
+-> API Key
+
+34f3e43b0a00ca5b67d50f91f7b2b2c0
+
+-> Example API Request
+
+https://api.themoviedb.org/3/movie/550?api_key=34f3e43b0a00ca5b67d50f91f7b2b2c0
+
+
+
+-------------------------------
+
+packages needed to be installed
+
+1. Axios (npm i axios)
+2. React Youtube (Trailer Popups) 
+   (npm i react-youtube)
+   (npm i movie-trailer)
+
+
+
+----------------------------------------------
+
+firebase deployment command
+
+1. firebase login
+2. firebase init
+
+   What do you want to use as your public directory? build
+	
+   npm run build
+
+3. firebase deploy
